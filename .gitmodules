@@ -1,3 +1,6 @@
 [submodule "cnsl_calculator"]
 	path = cnsl_calculator
 	url = https://github.com/bongtechie/cnsl_calculator.git
+[submodule "cnsl_charExperiments"]
+	path = cnsl_charExperiments
+	url = https://github.com/bongtechie/cnsl_charExperiments.git
